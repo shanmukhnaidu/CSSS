@@ -1,0 +1,52 @@
+p{
+	background: black;
+	text-align: center;
+}
+div{
+	background-color: lightblue;
+	height: 100px;
+	width: 100px;
+}
+*{
+	color:green;
+	font-family: cursive;
+}
+input[type="text"]
+{
+	color: red;
+}
+input[type="number"]
+{
+	color: green;
+}
+a[href]
+{
+	color:blue;
+}
+img{
+	filter: blur(3px);
+}
+a:hover{
+	color: pink;
+}
+div:hover
+{
+	background: lightcorals;
+}
+a:active{
+	color: black;
+}
+a:visited
+{
+	color: maroon;
+}
+
+body{
+	background-image: url('Kingg.JPG');
+	background-size: cover;
+}
+span{
+	border-style: dashed;
+	border-width: 5px;
+	border-color: blue pink red green;
+}

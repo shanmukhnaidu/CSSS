@@ -1,0 +1,62 @@
+.A{
+	width: 810px;
+	height: 400px;
+	background-color: pink;
+}
+.B{
+	width: 200px;
+	height: 250px;
+	background-color: red;
+	float: left;
+	border-radius: 50px;
+	margin-left: 55px;
+	margin-top: 50px;
+}
+.C{
+	width: 200px;
+	height: 250px;
+	background-color: blue;
+	float: left;
+	border-radius: 50px;
+	margin-left: 30px;
+	margin-top: 50px;
+}
+.D{
+	width:200px;
+	height: 250px;
+	background-color:green;
+	float: right;
+	border-radius: 50px;
+	margin-right: 	100px;
+	margin-top: 50px;
+	margin-left: 20px;
+	padding-bottom: 100px;
+}
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.E{
+	padding-top: 90px;
+	padding-left: 30px;
+}
+i{
+	margin-left: 90px;
+	font-size: 43px;
+	padding-top: 25px;
+}
+hr{
+	margin-right: 10px;
+	margin-left:10px;
+	border-color: blue;
+}
+form{
+	margin-left: 50px;
+}
+.p{
+	height: 20px;
+	width:100px;
+	background-color: black;
+	border: 2px solid black;
+}
